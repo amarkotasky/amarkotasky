@@ -74,7 +74,7 @@ I worked with multiple international clients and in multiple distributed but tig
   
  <p float="left">
   <a href="https://www.mysql.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/amarkotasky/amarkotasky/master/assets/mysl.png" height="90" />&nbsp;&nbsp;
+    <img src="https://github.com/amarkotasky/amarkotasky/blob/main/static/myql.png" height="90" />&nbsp;&nbsp;
   </a>
 </p>
 
