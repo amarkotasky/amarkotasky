@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![N|Solid](https://i.ibb.co/QcVg3gb/circle-cropped.png)
 ### I'm  Amar Khan 👋
 
 I am [amarkhan](https://www.amarkhan.co.in/), a passionate and creative DevOps engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Open-Source. 🎯 
