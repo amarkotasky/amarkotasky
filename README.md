@@ -39,7 +39,7 @@ I worked with multiple international clients and in multiple distributed but tig
     <img src="https://raw.githubusercontent.com/amarkotasky/amarkotasky/master/assets/kuber.gif"  height="75" />
   </a>
   <a href="https://www.jenkins.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/amarkotasky/amarkotasky/master/assets/cicd.gif"  height="65" />
+    <img src="https://github.com/amarkotasky/amarkotasky/blob/main/static/Jenkins-4.gif"  height="65" />
   </a>
   <a href="https://www.terraform.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/amarkotasky/amarkotasky/master/assets/terraform.gif" width="120" />
