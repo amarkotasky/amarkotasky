@@ -26,6 +26,13 @@ I mostly work on DevOps with Cloud-Native technologies.🚀 I build robust, secu
 
 
 I worked with multiple international clients and in multiple distributed but tight-knit teams that span multiple continents across the globe. I am Fully-committed to designing and developing innovative materials. I am highly self-motivated, enthusiastic and always willing to learn more. 
+## Clouds
+
+<p float="left">
+  <a href="https://aws.amazon.com/" target="_blank" >
+    <img src="https://github.com/amarkotasky/amarkotasky/blob/main/static/aws.gif"  height="80" /> 
+  </a>
+ </p>
 
 ## Skills
 
@@ -41,6 +48,12 @@ I worked with multiple international clients and in multiple distributed but tig
   </a>
   <a href="https://www.terraform.io/" target="_blank" >
     <img src="https://github.com/amarkotasky/amarkotasky/blob/main/static/terraform.gif" width="120" />
+  </a>
+    <a href="https://hubot.github.com/" target="_blank" >
+    <img src="https://github.com/amarkotasky/amarkotasky/blob/main/static/electric.gif" width="120" />
+  </a>
+    <a href="https://www.ansible.com/" target="_blank" >
+    <img src="https://github.com/amarkotasky/amarkotasky/blob/main/static/ansible.gif" width="120" />
   </a>
  </p>
     
