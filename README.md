@@ -50,7 +50,7 @@ I worked with multiple international clients and in multiple distributed but tig
     <img src="https://github.com/amarkotasky/amarkotasky/blob/main/static/terraform.gif" width="120" />
   </a>
     <a href="https://hubot.github.com/" target="_blank" >
-    <img src="https://github.com/amarkotasky/amarkotasky/blob/main/static/electric.gif" height="60" width="120" />
+    <img src="https://github.com/amarkotasky/amarkotasky/blob/main/static/electric.gif" height="60" width="60" />
   </a>
     <a href="https://www.ansible.com/" target="_blank" >
     <img src="https://github.com/amarkotasky/amarkotasky/blob/main/static/ansible.gif" width="120" />
