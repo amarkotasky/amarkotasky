@@ -22,7 +22,7 @@ I am [amarkhan](https://www.amarkhan.co.in/), a passionate and creative DevOps e
 
 I mostly work on DevOps with Cloud-Native technologies.🚀 I build robust, secure, and scalable infrastructures using Cloud-native technologies such as Kubernetes, Docker, Terraform, AWS, CI/CD, etc. and proficient with metric collection & monitoring tools such as Grafana, promethues, splunk, etc.
 
-![my github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amarkotasky&langs_count=8&layout=compact)
+![my github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amarkotasky&langs_count=8&layout=compact&count_private=true&show_icons=true&theme=radical)
 
 
 I worked with multiple international clients and in multiple distributed but tight-knit teams that span multiple continents across the globe. I am Fully-committed to designing and developing innovative materials. I am highly self-motivated, enthusiastic and always willing to learn more. 
