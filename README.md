@@ -70,6 +70,13 @@ I worked with multiple international clients and in multiple distributed but tig
     <img src="https://github.com/amarkotasky/amarkotasky/blob/main/static/splunk.gif" height="60" />
   </a>
 </p>
+### Databases
+  
+ <p float="left">
+  <a href="https://www.mysql.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/amarkotasky/amarkotasky/master/assets/mysl.png" height="90" />&nbsp;&nbsp;
+  </a>
+</p>
 
 ### 🎧 am one click away from you .. 
 
