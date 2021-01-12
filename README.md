@@ -82,6 +82,6 @@ I worked with multiple international clients and in multiple distributed but tig
 
 ### 🎧 am one click away from you .. 
 
-  ⦿ Visit my [Website](https://www.amarkhan.co.in) 🔮 <br>
+  ⦿ Visit my [Website](http://www.amarkhan.co.in) 🔮 <br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/amar-khan/) 🎀 <br>
   ⦿ semd me an [Email](mailto:amarkotasky@gmail.com) 📧 <br>
