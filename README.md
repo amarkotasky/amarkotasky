@@ -57,6 +57,19 @@ I worked with multiple international clients and in multiple distributed but tig
   </a>
  </p>
     
+### Monitoring
+  
+ <p float="left">
+  <a href="https://grafana.com/" target="_blank" >
+    <img src="https://github.com/amarkotasky/amarkotasky/blob/main/static/grafana.gif" height="60" />&nbsp;&nbsp;
+  </a>
+  <a href="https://prometheus.io/" target="_blank" >
+    <img src="https://github.com/amarkotasky/amarkotasky/blob/main/static/prometheus.gif" height="65" />
+  </a>
+  <a href="https://www.splunk.com/en_us" target="_blank" >
+    <img src="https://github.com/amarkotasky/amarkotasky/blob/main/static/splunk.gif" height="60" />
+  </a>
+</p>
 
 ### 🎧 am one click away from you .. 
 
